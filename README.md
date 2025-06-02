@@ -1,32 +1,31 @@
-# Hi there, I'm Sudhanshu Verma! 👋
+<h1 align="center">Hi 👋, I'm Sudhanshu Verma</h1>
+<h3 align="center">Web Developer | JavaScript Enthusiast | Cybersecurity Learner</h3>
 
-Welcome to my GitHub profile! I'm passionate about technology, programming, and cybersecurity. Here’s a little bit about me:
+<p align="center">
+  <a href="https://github.com/Sudhanshuverma1">
+    <img src="https://komarev.com/ghpvc/?username=Sudhanshuverma1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
-- 👀 I’m interested in cybersecurity, machine learning, and software development.
-- 🌱 I’m currently learning advanced cybersecurity techniques and practices.
-- 💞️ I’m looking to collaborate on open-source projects related to cybersecurity.
-- 📫 How to reach me: You can reach me via email at [sudhanshuuu01@gmail.com](mailto:sudhanshuuu01@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sudhanshu-verma-445664287/).
-- ⚡ Fun fact: I love trekking and exploring the great outdoors. The Valley of Flowers trek is one of my favorites!
+---
 
-## My Projects
+### 🧑‍💻 About Me
 
-### Password Manager
-A simple password manager application that securely generates and stores passwords for various platforms. This tool helps users manage their passwords efficiently while ensuring security and ease of access.
-- [GitHub Repository](https://github.com/Sudhanshuverma1/PASS-PASSWORD)
+- 🎓 B.Tech CSE Student at Dr. Rammanohar Lohia Awadh University (2021–2025)
+- 🌱 Currently learning **Full Stack Web Development**
+- 💻 Building real-world projects in **HTML, CSS, JavaScript, Node.js, MongoDB**
+- 🧠 Learning **Cybersecurity** – Google Cybersecurity Certified (2024)
+- 🚀 Exploring **UI/UX Design** and **SEO for Developers**
+- 🧰 Interested in Open Source Contributions
+- 📫 Reach me at: **sudhanshuuu01@gmail.com**
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 
+---
 
-## Get In Touch
+### 🛠️ Tech Stack
 
-Feel free to reach out if you want to discuss technology, collaborate on projects, or just have a chat!
-
-- 📧 Email: [sudhanshuuu01@gmail.com](mailto:sudhanshuuu01@gmail.com)
-- 💼 LinkedIn: [Sudhanshu Verma](https://www.linkedin.com/in/sudhanshu-verma-445664287/)
-
-## GitHub Stats
-
-![Sudhanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sudhanshuverma1&show_icons=true&theme=radical)
-
-<!---
-Sudhanshuverma1/Sudhanshuverma1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```txt
+Frontend:   HTML5 | CSS3 | JavaScript | Tailwind CSS | Bootstrap
+Backend:    Node.js | Express.js | MongoDB | Firebase
+Tools:      Git | GitHub | Postman | VS Code | Netlify | Vercel
+Other:      Responsive Design | REST APIs | LocalStorage | SEO | UI/UX
