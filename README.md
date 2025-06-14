@@ -8,7 +8,7 @@
 <h3 align="center">A passionate full stack web developer and cybersecurity enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF90&center=true&vCenter=true&width=435&lines=Web+Developer;Cybersecurity+Learner;JavaScript+Lover;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF90&center=true&vCenter=true&width=435&lines=Web+Developer;UI/UX+Focused+Developer;Cybersecurity+Learner;JavaScript+Lover;Open+Source+Contributor;" />
 </p>
 
 
