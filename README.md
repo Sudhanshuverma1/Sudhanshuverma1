@@ -47,6 +47,14 @@
 
 </div>
 
+<h2> Portfolio:</h2>
+
+<p align="left">
+  <a href="https://sudhanshu1.netlify.app" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 <h2>GitHub Stats:</h2>
 
 <p align="center">
@@ -76,9 +84,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sudhanshuverma1/Sudhanshuverma1/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Sudhanshuverma1/Sudhanshuverma1/output/github-snake.svg" />
 </picture>
-
-
-
-
-kuch toh baat hai bande mei 
 
