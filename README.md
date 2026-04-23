@@ -59,7 +59,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sudhanshuverma1&show_icons=true&theme=react&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshuverma1&theme=react&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshuverma1&theme=react&hide_border=true"  />
 </p>
 
 <h2>Connect with Me:</h2>
