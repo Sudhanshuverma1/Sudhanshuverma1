@@ -11,6 +11,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF90&center=true&vCenter=true&width=435&lines=Web+Developer;UI/UX+Focused+Developer;Cybersecurity+Learner;JavaScript+Lover;Open+Source+Contributor;" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sudhanshuverma1/Sudhanshuverma1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sudhanshuverma1/Sudhanshuverma1/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sudhanshuverma1/Sudhanshuverma1/output/github-snake.svg" />
+</picture>
 
 <h1></h1> 
 
@@ -79,9 +84,5 @@
  *“Code like a developer. Think like a hacker. Secure like a pro.”* 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sudhanshuverma1/Sudhanshuverma1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sudhanshuverma1/Sudhanshuverma1/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sudhanshuverma1/Sudhanshuverma1/output/github-snake.svg" />
-</picture>
+
 
